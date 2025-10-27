@@ -463,7 +463,7 @@ If you are ready to be the first to receive the latest project news, discuss str
 o	The official hub where you can find all official project information, the whitepaper, and future features like staking and governance
 •	Telegram: t.me/EndgameProtocol_Official
 o	The official community channel for real-time communication and discussion with other players and the team.
-•	Discord: discord.gg/EndgameProtocol
+•	•	Discord: https://discord.gg/3wCwTj6Sf8
 o	The channel for in-depth discussions, including strategy talks, governance proposals, and AMAs (Ask Me Anything).
 Become the first survivor and make SuFi history.
 
