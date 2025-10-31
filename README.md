@@ -1,6 +1,6 @@
  
 
-Endgame Protocol White Paper v1.0
+Endgame Protocol White Paper v1.1
 The First Survival Finance (SurFi)
 
 October 11, 2025
