@@ -1,20 +1,20 @@
  
 
 Endgame Protocol White Paper v1.0
-The First Survival Finance (SuFi)
+The First Survival Finance (SurFi)
 
 October 11, 2025
 Author: Kuroda Kaito (黒田 魁人) - Pseudonym 
 kaito881221@gmail.com
 
-[Download Whitepaper (PDF)] (/docs/Endgame_Protocol_Whitepaper_v1.0.pdf)
+[Download Whitepaper (PDF)] (/docs/Endgame_Protocol_Whitepaper_v1.1.pdf)
 
 ---
 
 Endgame Protocol
-The era of Survival Finance (SuFi) begins now.
+The era of Survival Finance (SurFi) begins now.
 Traditional finance is over. The age of merely ‘holding’ assets is gone.
-Endgame Protocol is the first Survival Finance (SuFi) where your every action becomes value. Here, only one law exists: inactive assets are burned.
+Endgame Protocol is the first Survival Finance (SurFi) where your every action becomes value. Here, only one law exists: inactive assets are burned.
 You are no longer a passive investor, but a player who must constantly strategize to protect your assets. Trade, stake, and participate. Your survival instinct is your greatest weapon.
 This is not a simple investment. This is a grand game to prove your ability to survive and strategize.
 Survive and Prove.
@@ -26,7 +26,7 @@ Table of Contents
 1.	Introduction: The Rise of a New Paradigm
 1.1.	The Market's Limit: Sleeping Assets and Collapsing Economies
 1.2.	The Fundamental Question: Why Are Your Assets Inactive?
-1.3.	Our Answer: The Birth of Survival Finance (SuFi)
+1.3.	Our Answer: The Birth of Survival Finance (SurFi)
 1.4.	The Ultimate Vision: A Living, Decentralized Economic Game
 1.5.	A Message from the First Survivor
 2.	Competitive Analysis: Discovering a New Opportunity
@@ -45,21 +45,21 @@ Table of Contents
 5.	Tokenomics: An Economic System Designed for Growth
 5.1.	The Token's Core Design: The First Step Towards Scarcity
 5.2.	Token Distribution Policy: A Fair Launch and a Long-Term Vision
-5.3.	The Token's Core Value: Citizenship in the SuFi Nation
+5.3.	The Token's Core Value: Citizenship in the SurFi Nation
 6.	Technical Architecture: Designing a Trustworthy Decentralized System
 7.	Go-to-Market Strategy: In Search of the First Survivors
 7.1.	Phase 1: Forming the Strategists' Guild | Pre-Launch
 7.2.	Phase 2: The First Survivors Campaign | Post-Launch
-7.3.	Phase 3: The SuFi Evangelist Program | Growth Stage
+7.3.	Phase 3: The SurFi Evangelist Program | Growth Stage
 8.	Roadmap: The Journey to Survival
-8.1.	Genesis: Building the Foundation for SuFi
+8.1.	Genesis: Building the Foundation for SurFi
 8.2.	Ignition: Opening the Prelude to Competition
 8.3.	Evolution: Beyond Mere Survival, Into a True Game
 8.4.	New World: Beyond Individual Play, Into an Era of Collective Survival
 9.	Team & Partners: Turning the Vision into Reality
 10.	Risk Factors
 11.	Community: The Survivors' Network
-12.	Conclusion: Why Join SuFi Now?
+12.	Conclusion: Why Join SurFi Now?
 Appendix
 A. Endgame Protocol Glossary
 B. Community License & Citation Rules
@@ -95,22 +95,22 @@ Trading, staking, community participation, governance voting... all of these are
 Endgame Protocol begins at this very point. We present a new perspective where every action taken by a market participant becomes value itself. Your active engagement is the engine that brings the ecosystem to life, and your contribution rightfully deserves to be rewarded by the appreciation of the entire system.
 We are here to declare an end to the era of dormant assets and to usher in an age of 'awakened' assets.
 
-1.3	Our Answer: The Birth of Survival Finance (SuFi)
-To solve the dilemma of 'dormant assets' and 'unsustainable economies,' we propose a completely new paradigm. The name of this path pioneered by Endgame Protocol is Survival Finance (SuFi).
-We are the first to define SuFi as follows:
-Survival Finance (SuFi) is a dynamic economic system where value is redistributed and maximized through participant survival and competition.
-SuFi completely overturns existing financial models.
-•	Difference from HODL: In SuFi, merely ‘holding’ is no longer a virtue. ‘Survival’ is the only proof of value. Your assets are no longer dormant; every action taken to survive becomes the very process of protecting and growing their value.
-•	Difference from GameFi: SuFi rejects the inflationary models that dilute value through infinite token issuance. Instead, it redistributes value to the survivors through a deflationary model that burns inactive assets. Rewards are not generated externally; they are seized through competition within the system.
-SuFi is more than just an investment or a game; it is a grand social experiment that integrates the most primal human instinct—'survival'—into a financial system. Every participant must prove their strategy and skill within a set of rules designed to be fair and transparent.
-Endgame Protocol is the first proof of this new genre, SuFi.
+1.3	Our Answer: The Birth of Survival Finance (SurFi)
+To solve the dilemma of 'dormant assets' and 'unsustainable economies,' we propose a completely new paradigm. The name of this path pioneered by Endgame Protocol is Survival Finance (SurFi).
+We are the first to define SurFi as follows:
+Survival Finance (SurFi) is a dynamic economic system where value is redistributed and maximized through participant survival and competition.
+SurFi completely overturns existing financial models.
+•	Difference from HODL: In SurFi, merely ‘holding’ is no longer a virtue. ‘Survival’ is the only proof of value. Your assets are no longer dormant; every action taken to survive becomes the very process of protecting and growing their value.
+•	Difference from GameFi: SurFi rejects the inflationary models that dilute value through infinite token issuance. Instead, it redistributes value to the survivors through a deflationary model that burns inactive assets. Rewards are not generated externally; they are seized through competition within the system.
+SurFi is more than just an investment or a game; it is a grand social experiment that integrates the most primal human instinct—'survival'—into a financial system. Every participant must prove their strategy and skill within a set of rules designed to be fair and transparent.
+Endgame Protocol is the first proof of this new genre, SurFi.
 
 1.4	The Ultimate Vision: A Living, Decentralized Economic Game 
 Our ultimate vision is as follows:
 To build the most transparent, fair, and immersive decentralized economic game on the blockchain.
 This vision is built upon three core principles:
 •	Radical Transparency: All rules within the Endgame Protocol are written as publicly verifiable smart contract code. This eliminates arbitrary intervention from any centralized entity and ensures there are no hidden rules; everything is published and executed transparently on the blockchain.
-•	Provable Fairness: The laws of SuFi apply equally to all. Regardless of the size of your assets or your time of entry into the market, survival is determined solely by your activity and strategy. Here, Code is Law.
+•	Provable Fairness: The laws of SurFi apply equally to all. Regardless of the size of your assets or your time of entry into the market, survival is determined solely by your activity and strategy. Here, Code is Law.
 •	Deep Immersion: We do not want you to be a passive observer who only watches charts. Endgame Protocol is a grand strategy game designed to stimulate your intellect, psychology, and survival instincts. Every decision you make will create ripples throughout the ecosystem, and its consequences will directly impact your assets, delivering an unparalleled level of immersion.
 Endgame Protocol is more than just a token project; it is a living economic ecosystem, built and shaped by its community. We are not recruiting investors; we are seeking players who will join us in forging the rules of a new financial paradigm.
 
@@ -128,7 +128,7 @@ This whitepaper is the first map into that world. I sincerely hope you will join
 
 2.	Competitive Analysis: Discovering a New Opportunity
 In Chapter 1, we discussed 'why' a new paradigm is necessary.
-Now, in Chapter 2, we will prove the unique position of Endgame Protocol through market analysis. This is more than a simple competitive analysis; it is the story of the massive opportunity we have discovered and the inevitability of SuFi.
+Now, in Chapter 2, we will prove the unique position of Endgame Protocol through market analysis. This is more than a simple competitive analysis; it is the story of the massive opportunity we have discovered and the inevitability of SurFi.
 2.1.	Market Limitations and Opportunities
 As of 2025, the Decentralized Finance (DeFi) and Game Finance (GameFi) markets have grown into massive ecosystems worth hundreds of billions of dollars. However, despite this quantitative growth, both sectors have hit fundamental limitations in sustainability, revealing a structural void in the market. Assets in the DeFi ecosystem largely remain 'passive assets,' dormant for the purpose of yield farming, while the GameFi ecosystem has suffered from the failure of hyper-inflationary models based on the infinite issuance of reward tokens. 
 The market now craves a sustainable system that generates value through the active engagement of its participants, moving beyond models that simply copy money (DeFi) or reward tedious labor (GameFi). It is at this very point that the opportunity for Endgame Protocol begins.
@@ -137,7 +137,7 @@ The market now craves a sustainable system that generates value through the acti
 Endgame Protocol does not directly compete with existing DeFi or GameFi projects; rather, it occupies a unique position above them, presenting a new set of rules for the game.
 •	DeFi Protocols (e.g., Uniswap, Aave): These focus on providing liquidity and financial efficiency. However, they treat participants' assets merely as 'passive collateral' and fail to incentivize active, strategic 'actions' with those assets.
 •	GameFi Platforms (e.g., Axie Infinity, etc.): While they successfully onboarded numerous users to Web3 with the 'Play-to-Earn' model, most failed to prove long-term viability due to unsustainable reward systems. The essence of gaming, 'fun,' disappeared, leaving only the objective of 'profit,' which led to the collapse of their ecosystems.
-Category	Decentralized Finance (DeFi)	Game Finance (GameFi)	SuFi
+Category	Decentralized Finance (DeFi)	Game Finance (GameFi)	SurFi
 Endgame Protocol
 Core Value	Liquidity, Financial Efficiency	Play-to-Earn (P2E)	Proof of Survival, Practical Utility
 Economic Model	Inflationary (Liquidity Mining)	Hyper-Inflationary (Reward Tokens)	Deflationary (Burn Mechanism), External Capital Inflow (DeFi Integration)
@@ -157,7 +157,7 @@ We are not building just another DeFi or GameFi project. We are creating the fir
 In Chapter 1, we discussed 'why' a new paradigm is necessary. Now, in Chapter 2, we present our answer: 'Endgame Protocol.' We will explain in detail what it is, how it works, and why it can be trusted. This is more than a mere project introduction; it is a guide to the laws of the new world you are about to enter.
 
 3.1.	The Project's Identity: The Coin Itself is the Game
-Endgame Protocol is the world's first Survival Finance (SuFi) protocol and a grand, decentralized economic game unfolding on the blockchain. We are ending the era of passive holding (HODL) and proposing a new dimension of digital economy where every action a participant takes leads to survival and the proof of value. 
+Endgame Protocol is the world's first Survival Finance (SurFi) protocol and a grand, decentralized economic game unfolding on the blockchain. We are ending the era of passive holding (HODL) and proposing a new dimension of digital economy where every action a participant takes leads to survival and the proof of value. 
 In the Endgame Protocol ecosystem, the single, absolute principle of 'inactive assets are burned' is enforced by the smart contract. Therefore, participants are no longer passive investors but are transformed into 'players' who must constantly devise optimal strategies to protect and grow their assets. The ultimate survivor of this fierce competition will be the one who proves all value.
 
 3.2.	The Core Mechanism: Those Who Do Not Act, Perish
@@ -275,7 +275,7 @@ The economic system of Endgame Protocol, its tokenomics, is designed with the go
 	Ticker: $EGP
 	Blockchain: Binance Smart Chain (BSC)
 o	Standard: BEP-20
-o	Reasoning: The core of Endgame Protocol is 'continuous activity' from its participants. We believe that every player must be able to trade, stake, and execute survival strategies without being burdened by high fees. As of 2025, the Binance Smart Chain (BSC) is the most popular platform that is compatible with Ethereum's robust smart contract functionality while offering significantly lower gas fees and faster transaction speeds. To prevent high gas fees from discouraging player activity and to provide the most seamless and dynamic SuFi experience, we have chosen BSC as our mainnet.
+o	Reasoning: The core of Endgame Protocol is 'continuous activity' from its participants. We believe that every player must be able to trade, stake, and execute survival strategies without being burdened by high fees. As of 2025, the Binance Smart Chain (BSC) is the most popular platform that is compatible with Ethereum's robust smart contract functionality while offering significantly lower gas fees and faster transaction speeds. To prevent high gas fees from discouraging player activity and to provide the most seamless and dynamic SurFi experience, we have chosen BSC as our mainnet.
 	Initial Total Supply: 100,000,000 $EGP 
 o	Issuance Philosophy: The total supply of Endgame Protocol is fixed at 100 million tokens from the start. We reject inflationary models that dilute token value through indiscriminate issuance.
 o	The Core Principle - Reduction by Constant Burning: This 100 million supply is not a maximum limit, but a starting point. Through 'The Burn,' the core mechanism of Endgame Protocol, tokens from inactive wallets are permanently removed from the total supply every week. Therefore, the total amount of $EGP will continuously decrease (deflation) over time, serving as a powerful engine to naturally increase the scarcity and intrinsic value of the tokens held by the survivors.
@@ -297,22 +297,22 @@ o	Purpose: This allocation is for the core development and operations team dedic
 o	Vesting Conditions: The team's allocation is subject to strict vesting conditions to prove long-term commitment to the project. The tokens will be subject to a 1-year cliff, meaning they are fully locked for the first 12 months after the token listing. Following the cliff, the tokens will be distributed progressively on a monthly basis over 2 years (24 months). This is a powerful safeguard that ensures the team is focused solely on the long-term success of the project, not on short-term price fluctuations.
 	Marketing: 5%
 o	Quantity: 5,000,000 $EGP
-o	Purpose: These funds are allocated to spread the vision of Endgame Protocol and SuFi to a global audience. They will be used for strategic partnerships, influencer collaborations, community expansion, and global campaigns to drive the sustainable growth of the ecosystem.
+o	Purpose: These funds are allocated to spread the vision of Endgame Protocol and SurFi to a global audience. They will be used for strategic partnerships, influencer collaborations, community expansion, and global campaigns to drive the sustainable growth of the ecosystem.
 	Reserve: 10%
 o	Quantity: 10,000,000 $EGP
 o	Purpose: This allocation serves as a strategic reserve to address unforeseen market conditions, function as emergency funds, facilitate strategic partnerships, support development for new core features, or act as EGP loan collateral for the Multi-Asset Vault. This ensures the protocol's stability and flexibility are maximized, enabling agile responses to future growth opportunities.
 
-5.3.	The Token's Core Value: Citizenship in the SuFi Nation
-The $EGP token is not a mere digital asset. It is the citizenship and key currency of the grand digital economic nation that Endgame Protocol aims to build: the 'SuFi Nation.' To hold $EGP means to possess the right to participate in this nation's economic activities, to govern by directly shaping its laws, and to own a share of all the value generated from its growth.
-1.	Right to Participate: The Key Currency of the SuFi World
-$EGP is the center of all economic and gaming activities that occur within the SuFi ecosystem.
+5.3.	The Token's Core Value: Citizenship in the SurFi Nation
+The $EGP token is not a mere digital asset. It is the citizenship and key currency of the grand digital economic nation that Endgame Protocol aims to build: the 'SurFi Nation.' To hold $EGP means to possess the right to participate in this nation's economic activities, to govern by directly shaping its laws, and to own a share of all the value generated from its growth.
+1.	Right to Participate: The Key Currency of the SurFi World
+$EGP is the center of all economic and gaming activities that occur within the SurFi ecosystem.
 o	Survival Gameplay: It is the essential asset required to participate in the core survival game of Endgame Protocol and to engage in all activities such as staking, trading NFT items, and the 'Pillage Night.'
-o	Use of the SuFi Hub: In the new SuFi games that will be launched through the future 'SuFi Launchpad,' $EGP will also be used as the key currency for item trading and rewards.
+o	Use of the SurFi Hub: In the new SurFi games that will be launched through the future 'SurFi Launchpad,' $EGP will also be used as the key currency for item trading and rewards.
 o	Marketplace Payments: It is used as the core payment method for all economic activities in the 'Gladiator's Marketplace,' such as betting on top players or trading verified strategy NFTs.
 2.	Right to Govern: The Legislators and Investors of the Ecosystem
 The $EGP token is the voting power of the Endgame Protocol DAO. Holders are not merely players; they become operators who decide the future of the ecosystem.
 o	Internal Rule-Making: Decide on core economic systems and game rules through voting.
-o	External Ecosystem Control: As the DAO evolves into the 'Survivors' Syndicate,' EGP holders will wield influence over the entire market by using the Ecosystem Fund to decide which new projects to invest in and which to provide with a 'SuFi Certified' audit.
+o	External Ecosystem Control: As the DAO evolves into the 'Survivors' Syndicate,' EGP holders will wield influence over the entire market by using the Ecosystem Fund to decide which new projects to invest in and which to provide with a 'SurFi Certified' audit.
 o	Decision-Making Power: Holders of $EGP become members of the future Endgame DAO, granting them the right to vote on crucial proposals that will determine the protocol's destiny.
 o	Key Proposal Agendas:
 [Core Economic System Agendas]
@@ -326,14 +326,14 @@ o	Key Proposal Agendas:
 	Decisions on the detailed rules for the future 'Alliance' system
 o	Holding $EGP means more than just owning an asset; it means having the right to become an operator who determines the direction of the protocol.
 3.	Right to Own: Beneficiaries of the Nation's Growth
-The $EGP token is a 'proof of ownership' that absorbs all the economic value generated from the growth of the SuFi Nation.
+The $EGP token is a 'proof of ownership' that absorbs all the economic value generated from the growth of the SurFi Nation.
 o	Value Accrual: Through the continuous burn mechanism, the scarcity of the token increases, directly rewarding long-term holders with the value of the ecosystem's growth.
 o	Revenue Sharing: Revenue generated by the 'Survivors' Syndicate' through external project investments or audit services will be distributed to EGP holders (DAO members), providing an experience where the success of the ecosystem becomes one's own success.
 4.	Right to Economic Prosperity: The Core of Future Value Creation Endgame Protocol goes beyond the scarcity and activity of EGP to maximize the token's intrinsic value through practical utility and robust demand generation, thereby providing continuous economic prosperity to its participants.
 o	Multi Asset Vault & DeFi Integration: We plan to build a Multi Asset Vault system where EGP holders can leverage their EGP as collateral or deposit external assets (BTC, ETH, Stablecoin, etc.) into the Vault to generate profit. We intend to utilize the assets deposited in the Vault to initiate loans within decentralized finance (DeFi) protocols and distribute the resulting interest margin to Vault participants. This mechanism will grant EGP strong collateral value and practical utility for generating revenue, significantly increasing the demand for purchasing and holding EGP.
 o	Ecosystem DApp & Service Expansion: We plan to continuously expand the use cases for EGP by developing exclusive DApps and services that require EGP for access or offer special benefits.
 o	Integrated Fee Model: We will introduce a model where EGP is used to pay fees for specific services within the Endgame Protocol ecosystem, and a portion of these fees will be either burned or redistributed to EGP holders, thereby continuously generating demand for EGP.
-Thus, the utility of EGP is robustly designed around four pillars: participation, governance, ownership, and prosperity within the ecosystem, consistently underpinning the token's intrinsic value and solidifying its status as a citizen of the SuFi Nation.
+Thus, the utility of EGP is robustly designed around four pillars: participation, governance, ownership, and prosperity within the ecosystem, consistently underpinning the token's intrinsic value and solidifying its status as a citizen of the SurFi Nation.
 
 ---
 
@@ -379,29 +379,29 @@ Civilization players will feel that Endgame Protocol is like a 'grand strategy g
 	Core Target: Presale participants and the initial wave of new players.
 	Action Plan: Presale participants will be awarded a limited-edition 'Genesis Survivor' NFT as a badge of honor. Additionally, we will run 'The First Survivor' event during the first month after launch, offering exceptional rewards to top players on the leaderboard to maximize initial ecosystem vitality.
 
-7.3.	Phase 3: The SuFi Evangelist Program | Growth Stage
+7.3.	Phase 3: The SurFi Evangelist Program | Growth Stage
 	Objective: To empower the community to become a powerful 'growth engine' that organically attracts new users.
 	Core Target: Highly engaged community members with a deep understanding of the project.
-	Action Plan: We will appoint members who create high-quality content—such as strategy guides, analytical articles, and video tutorials—as 'SuFi Evangelists' and reward them through the Ecosystem Fund. This community-generated content will become the most powerful and sustainable marketing tool for driving new user acquisition.
+	Action Plan: We will appoint members who create high-quality content—such as strategy guides, analytical articles, and video tutorials—as 'SurFi Evangelists' and reward them through the Ecosystem Fund. This community-generated content will become the most powerful and sustainable marketing tool for driving new user acquisition.
 
 ---
 
 8.	Roadmap: The Journey to Survival 
-Endgame Protocol has a clear vision and a systematic plan for execution. Our journey is comprised of four core phases, each designed to progressively build and expand the SuFi ecosystem.
+Endgame Protocol has a clear vision and a systematic plan for execution. Our journey is comprised of four core phases, each designed to progressively build and expand the SurFi ecosystem.
 
-8.1.	Genesis: Building the Foundation for SuFi
-Objective: To build the perfect foundation for the birth of SuFi.
+8.1.	Genesis: Building the Foundation for SurFi
+Objective: To build the perfect foundation for the birth of SurFi.
 This phase is the most critical period for introducing the vision of Endgame Protocol to the world, securing technical stability, and establishing our initial community.
-	Whitepaper v1.0 Release: We will publish the official whitepaper detailing the vision of Endgame Protocol and SuFi.
+	Whitepaper v1.0 Release: We will publish the official whitepaper detailing the vision of Endgame Protocol and SurFi.
 	Core Community Building: We will establish our official channels—Website, Twitter (X), Telegram, and Discord—to form an initial group of 'Survivors' who resonate with the project's vision.
 	Smart Contract Development & Audit: We will complete the development of the smart contracts for the $EGP token and its core logic (burn, distribution) and have them 100% verified for stability through an audit by a global, top-tier security firm.
 	Presale: We will conduct a presale for early supporters to secure the initial funding and a strong community foundation required for a successful launch.
 
 8.2.	Ignition: Opening the Prelude to Competition
 Objective: To make the ecosystem's heart beat and to raise the curtain on the first competition.
-This is the phase where we will officially activate the economic system of Endgame Protocol and open the prelude to the SuFi game.
+This is the phase where we will officially activate the economic system of Endgame Protocol and open the prelude to the SurFi game.
 	Decentralized Exchange (DEX) Listing: We will list the $EGP token on PancakeSwap and provide sufficient initial liquidity to create an environment where anyone can trade freely and securely.
-	First Burn Event: We will conduct the first 'Burn' event after the listing to prove to the community how the core mechanism of SuFi actually works.
+	First Burn Event: We will conduct the first 'Burn' event after the listing to prove to the community how the core mechanism of SurFi actually works.
 	Survivor Leaderboard System Launch: We will launch the v1.0 of the Survivor Leaderboard on the official website to display real-time activity rankings, stimulating the competitive spirit of participants and injecting vitality into the initial ecosystem.
 
 8.3.	Evolution: Beyond Mere Survival, Into a True Game
@@ -412,9 +412,9 @@ This is the phase where we move beyond mere survival, offering players more prof
 	First Governance Vote: We will conduct the first official vote of the Endgame DAO. This will be a historic first step, where the community directly decides on the rules of the protocol (e.g., the leaderboard reward structure).
 
 8.4.	New World: Beyond Individual Play, Into an Era of Collective Survival
-Objective: To expand the SuFi ecosystem, moving beyond individual play and into collective competition.
+Objective: To expand the SurFi ecosystem, moving beyond individual play and into collective competition.
 This is the phase where we will expand Endgame Protocol beyond a simple token project into a grand digital nation and platform.
-	Building the SuFi Hub: We will begin the development of a 'SuFi Launchpad,' enabling other developers to launch their own survival games using $EGP.
+	Building the SurFi Hub: We will begin the development of a 'SurFi Launchpad,' enabling other developers to launch their own survival games using $EGP.
 	Alliance System Development: We will develop and release a prototype of the 'Alliance System' to the community, enabling players to form guilds to cooperate and compete.
 	Strategic Asset Expansion (Multi-Asset Vault): The Multi-Asset Vault of EGP transcends simple asset deposits. It introduces an innovative 'Asset-Backed EGP Loan' system, enabling Web3 holders to actively participate in the EGP Survival Economy without selling their core assets (such as BTC, ETH, NFTs, $CAKE, $BNB, etc.).
 o	Asset Collateralization & EGP Borrowing: Holders of various project tokens can deposit their assets as collateral into the Vault. In return, they borrow EGP tokens from the protocol, equivalent to a certain percentage of their collateral's value. This mechanism generates organic and robust demand for EGP tokens.
@@ -428,7 +428,7 @@ o	Minimizing Risk and Ensuring Reliability: This approach fundamentally eliminat
 o	Long-Term Vision: As the EGP Protocol grows and its community matures, the development and operation of its own Multi-Asset Vault system will be pursued as a key objective in the long-term roadmap. Through this, EGP will ultimately achieve full autonomy and realize the vision of 'Asset-Backed EGP Lending' presented above.
 	Launching the Gladiator's Marketplace: We will diversify the ecosystem's economic activity by introducing features for player-to-player (P2P) betting and the trading of strategy NFTs.
 	Ecosystem Contributor Recognition (LP Staker Integration): We will recognize the act of staking EGP-BNB Liquidity Provider (LP) tokens as 'activity.' This will embrace core ecosystem contributors as players and incentivize the provision of liquidity.
-	SuFi Ecosystem Expansion: Building on the success of Endgame Protocol, we will begin the research and planning for second and third projects that utilize the new genre of SuFi.
+	SurFi Ecosystem Expansion: Building on the success of Endgame Protocol, we will begin the research and planning for second and third projects that utilize the new genre of SurFi.
 	Establishing the Survivors' Syndicate: We will expand the DAO's functionality, taking the first steps toward becoming a decentralized venture capital (VC) that invests in and audits external projects.
 
 ---
@@ -436,13 +436,13 @@ o	Long-Term Vision: As the EGP Protocol grows and its community matures, the dev
 9.	Team & Partners: Turning the Vision into Reality
 Endgame Protocol ultimately aims for a decentralized ecosystem, and this philosophy is deeply reflected in our team's operational principles. We strongly desire this project to grow through pure ideas, innovative mechanisms, and the collective intelligence of the community, rather than relying on the fame or background of specific individuals.
 We prioritize the vision and technical capabilities of Endgame Protocol above all else, focusing all our efforts transparently and fairly on the project itself. We will prove our trustworthiness not through individual identities, but solely through our deliverables and code.
-Furthermore, we view partnerships not merely as collaborations, but as strategic allies committed to jointly building and expanding the decentralized ecosystem of Endgame Protocol. Together with them, we are dedicated to constructing a robust and sustainable SuFi Nation.
+Furthermore, we view partnerships not merely as collaborations, but as strategic allies committed to jointly building and expanding the decentralized ecosystem of Endgame Protocol. Together with them, we are dedicated to constructing a robust and sustainable SurFi Nation.
 	The Foundation of Trust: Code and Community
 We believe that anonymity must not lead to a lack of accountability. Therefore, we are committed to the community and will build the highest level of trust through the following measures.
 o	Transparent Smart Contract Audit: Endgame Protocol prioritizes the protection of community assets, committing to the highest standards of security and transparency. To achieve this, we adhere to the principle of undergoing a comprehensive code audit by a global Top Tier security auditing firm prior to the official project launch. We will conduct audits through such a premier enterprise, and the results will be 100% transparently disclosed to the community. The complete final audit report will be publicly accessible via our official website and GitHub. This process will allow us to prove to the community that our code has undergone objective verification by third-party experts, thereby establishing an environment where all participants can engage in the game with confidence.
 o	Strict Team Vesting: The tokens allocated to the team are strictly locked via a smart contract under the condition of a 1-year cliff and a 2-year linear vesting period following the listing. This is a powerful commitment that proves we cannot disrupt the market for short-term gain and are dedicated solely to the long-term success of the project.
 o	Community-driven Governance: The ultimate goal of Endgame Protocol is complete decentralization. As outlined in the roadmap, all operational authority will be transferred to a DAO (Decentralized Autonomous Organization) comprised of EGP holders. The future of the protocol will be decided not by an anonymous development team, but by the hands of the community itself.
-We ask you to join us on this journey, believing not in the names of a team, but in well-written code, a healthy community, and the powerful vision of SuFi. 
+We ask you to join us on this journey, believing not in the names of a team, but in well-written code, a healthy community, and the powerful vision of SurFi. 
 
 ---
 
@@ -457,7 +457,7 @@ As Endgame Protocol presents an innovative model, it inherently contains the fol
 
 11.	Community: The Survivors' Network
 Endgame Protocol is not merely a collection of code. It is a powerful 'Survivors' Network' advancing towards a common goal. We believe in the power of transparent communication and collective intelligence, and all important discussions and decisions will be made together with our community.
-If you are ready to be the first to receive the latest project news, discuss strategies with other players, and build the future of SuFi together, join our official channels right now.
+If you are ready to be the first to receive the latest project news, discuss strategies with other players, and build the future of SurFi together, join our official channels right now.
 [Official Channel Links]
 •	Website: https://endgameprotocol.com
 o	The official hub where you can find all official project information, the whitepaper, and future features like staking and governance
@@ -465,17 +465,17 @@ o	The official hub where you can find all official project information, the whit
 o	The official community channel for real-time communication and discussion with other players and the team.
 •	•	Discord: https://discord.gg/3wCwTj6Sf8
 o	The channel for in-depth discussions, including strategy talks, governance proposals, and AMAs (Ask Me Anything).
-Become the first survivor and make SuFi history.
+Become the first survivor and make SurFi history.
 
 ---
 
-12.	Conclusion: Why Join SuFi Now?
+12.	Conclusion: Why Join SurFi Now?
 Over the past few years, we have witnessed the birth and death of countless cryptocurrency projects. The era of HODL, inflated by vague expectations, has faded, and the mirage of GameFi, built upon unsustainable rewards, has vanished.
 The market is now asking: "So, what's next?"
 Endgame Protocol is the clearest and boldest answer to that question.
 We do not make empty promises. Instead, we present a system proven by code. We are not proposing the passive accumulation of wealth; rather, we invite you into a dynamic world where your every action becomes value.
 The core values of Endgame Protocol are clear:
-•	The First: We are pioneering a new paradigm called 'Survival Finance (SuFi).' You will not be a simple early investor, but a Pioneer writing the first page of a new history.
+•	The First: We are pioneering a new paradigm called 'Survival Finance (SurFi).' You will not be a simple early investor, but a Pioneer writing the first page of a new history.
 •	Transparency: All our laws are published on the smart contract and apply fairly to everyone. There is no intervention from centralized entities or hidden rules. There is only the code.
 •	Dynamism: Here, assets are no longer dormant. You will experience a living economy where your every strategy and action creates ripples throughout the ecosystem, and where value is ceaselessly regenerated through survival and competition.
 This is more than an investment; it is an opportunity to prove your skill.
@@ -489,9 +489,9 @@ Survive and Prove.
 Appendix
 A. Endgame Protocol Glossary
 1. Core Concepts
-•	Survival Finance (SuFi): A dynamic economic system where value is redistributed and maximized through the survival and competition of its participants. A new genre founded by Endgame Protocol.
-•	Endgame Protocol (EGP): The world's first Survival Finance (SuFi) protocol.
-•	HODL: The act of holding a cryptocurrency for the long term without selling. The passive strategy that SuFi is designed to overcome.
+•	Survival Finance (SurFi): A dynamic economic system where value is redistributed and maximized through the survival and competition of its participants. A new genre founded by Endgame Protocol.
+•	Endgame Protocol (EGP): The world's first Survival Finance (SurFi) protocol.
+•	HODL: The act of holding a cryptocurrency for the long term without selling. The passive strategy that SurFi is designed to overcome.
 •	GameFi: A portmanteau of 'Game' and 'Finance.' A genre of blockchain-based games that feature a 'Play-to-Earn' model.
 •	DAO (Decentralized Autonomous Organization): A decision-making body that allows EGP holders to directly govern the rules of the protocol.
 
