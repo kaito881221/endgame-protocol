@@ -7,7 +7,7 @@ October 11, 2025
 From the First Survivor: Kuroda Kaito (黒田 魁人)
 kaito881221@gmail.com
 
-[Download Whitepaper (PDF)] (/docs/Endgame_Protocol_Whitepaper_v1.1.pdf)
+[Download Whitepaper (PDF)] (/docs/Endgame_Protocol_Whitepaper_v1.2.pdf)
 
 ---
 
