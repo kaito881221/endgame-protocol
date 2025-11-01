@@ -72,7 +72,7 @@ No Offer to Sell: This Whitepaper is not an offer to sell or a solicitation of a
 Risk Disclosure: Investment in cryptocurrency and blockchain projects involves various inherent risks, including but not limited to market volatility, technical vulnerabilities, and regulatory uncertainty. The value of [$EGP] tokens is not guaranteed, and you may lose all or part of your investment. The Endgame Protocol team assumes no liability for any decrease in token value or investment losses.
 Forward-Looking Statements: This Whitepaper may contain statements related to the roadmap, business plans, and future projections. These statements are based on expectations and forecasts as of the date of this document (October 11, 2025), and actual results may differ materially due to various factors such as technical challenges, changes in the market environment, and regulations. The Endgame Protocol team is under no obligation to publicly update or revise any forward-looking statements.
 Legal Jurisdiction: The purchase and holding of [$EGP] tokens may be restricted by the laws of certain countries or jurisdictions. All individuals and entities who access this Whitepaper are responsible for complying with the laws of their respective jurisdictions.
-Notice Regarding Restricted Jurisdictions: Participation in Endgame Protocol's token presale may be restricted based on the laws and regulations of certain jurisdictions. Nationals and residents of the United States of America (including citizens, permanent residents, and residents), Republic of Korea, People's Republic of China, Canada, Iran, Cuba, Syria, North Korea (Democratic People's Republic of Korea), Venezuela, and other countries where cryptocurrency sales are prohibited or strictly restricted, as well as countries subject to international sanctions, are not permitted to participate in this presale. Participants are solely responsible for verifying and complying with the laws of their nationality and place of residence.
+Notice Regarding Restricted Jurisdictions: Participation in Endgame Protocol's token private sale may be restricted based on the laws and regulations of certain jurisdictions. Nationals and residents of the United States of America (including citizens, permanent residents, and residents), Republic of Korea, People's Republic of China, Canada, Iran, Cuba, Syria, North Korea (Democratic People's Republic of Korea), Venezuela, and other countries where cryptocurrency sales are prohibited or strictly restricted, as well as countries subject to international sanctions, are not permitted to participate in this private sale. Participants are solely responsible for verifying and complying with the laws of their nationality and place of residence.
 Accuracy and Changes: While the Endgame Protocol team has endeavored to ensure that the information in this Whitepaper is accurate and up-to-date, we do not warrant its completeness or accuracy, either explicitly or implicitly. Project details, mechanisms, the roadmap, and other aspects may be changed without prior notice for the advancement of the ecosystem. Always check the official website and community channels for the latest information. 
 Official Language: This Whitepaper may be translated into multiple languages for the convenience of the reader. However, in all cases of inconsistency or conflict in interpretation, the English Version shall be the final and binding source of truth. Any other language translations are provided for reference only.
 By reading this Whitepaper and participating in the Endgame Protocol project, you are deemed to have understood and agreed to all the terms stated above.
@@ -282,12 +282,12 @@ o	The Core Principle - Reduction by Constant Burning: This 100 million supply is
 
 5.2.	Token Distribution Policy: A Fair Launch and a Long-Term Vision
 The total supply of 100,000,000 $EGP is strategically distributed to ensure the long-term, sustainable growth of the Endgame Protocol ecosystem. The entire distribution process will be made public to ensure transparency. Trust with our community is prioritized above all, especially concerning the team's allocation, which is subject to a long-term lock-up policy.
-	Ecosystem & Rewards: 40%
-o	Quantity: 40,000,000 $EGP
-o	Purpose: This is the most critical allocation, serving as the lifeblood of the Endgame Protocol ecosystem. These funds will be used to reward participants who contribute directly to the ecosystem through activities such as staking, leaderboard achievements, community events, and the activation of the future Alliance system. This ensures the long-term vitality of the project and the continuous motivation of its participants.
-	Presale: 20%
-o	Quantity: 20,000,000 $EGP
-o	Purpose: To offer community members who believed in and supported our vision from the beginning an opportunity to share in the fruits of the project's success. Funds raised from the presale will be used for the 'Initial Liquidity' and 'Marketing' allocations detailed below, establishing the foundation for a successful project launch.
+	Ecosystem & Rewards: 55%
+o	Quantity: 55,000,000 $EGP
+o	Purpose: This is the most critical allocation, serving as the lifeblood of the SurFi ecosystem. These funds will be used to reward participants who contribute directly to the ecosystem through activities such as staking, leaderboard achievements, community events, and the activation of the future Alliance system. Additionally, this expanded allocation serves as a strategic reserve for post-listing marketing campaigns, potential IEOs, and community growth initiatives. This ensures the long-term vitality of the project and the continuous motivation of its participants.
+	Private sale: 5%
+o	Quantity: 5,000,000 $EGP
+o	Purpose: This allocation is reserved for strategic partners and early institutional investors (VCs). This round will be conducted through 1:1 private contracts following the establishment of the corporation, and is not a public sale. Funds raised will be used for legal/incorporation fees, initial exchange listing fees, and securing initial liquidity, establishing the foundation for a successful project launch.
 	Initial Liquidity for DEX: 15%
 o	Quantity: 15,000,000 $EGP
 o	Purpose: To create a seamless and stable trading environment upon listing on a Decentralized Exchange (DEX). Sufficient initial liquidity reduces price volatility and ensures a trustworthy trading environment for participants. This liquidity will be permanently locked immediately after the listing to fundamentally prevent the possibility of a 'rug-pull' and provide a strong foundation of trust for the community.
@@ -376,8 +376,8 @@ Civilization players will feel that Endgame Protocol is like a 'grand strategy g
 
 7.2.	Phase 2: The First Survivors Campaign | Post-Launch 
 	Objective: To maximize initial hype and create early 'successful player' stories to stimulate the competitive spirit of other participants.
-	Core Target: Presale participants and the initial wave of new players.
-	Action Plan: Presale participants will be awarded a limited-edition 'Genesis Survivor' NFT as a badge of honor. Additionally, we will run 'The First Survivor' event during the first month after launch, offering exceptional rewards to top players on the leaderboard to maximize initial ecosystem vitality.
+	Core Target: Early strategic partners (including Private Sale investors) and the initial wave of new players.
+	Action Plan: Early strategic partners and Private Sale investors will be awarded a limited-edition 'Genesis Survivor' NFT as a badge of honor. Additionally, we will run 'The First Survivor' event during the first month after launch, offering exceptional rewards to top players on the leaderboard to maximize initial ecosystem vitality.
 
 7.3.	Phase 3: The SurFi Evangelist Program | Growth Stage
 	Objective: To empower the community to become a powerful 'growth engine' that organically attracts new users.
@@ -395,7 +395,7 @@ This phase is the most critical period for introducing the vision of Endgame Pro
 	Whitepaper v1.0 Release: We will publish the official whitepaper detailing the vision of Endgame Protocol and SurFi.
 	Core Community Building: We will establish our official channels—Website, Twitter (X), Telegram, and Discord—to form an initial group of 'Survivors' who resonate with the project's vision.
 	Smart Contract Development & Audit: We will complete the development of the smart contracts for the $EGP token and its core logic (burn, distribution) and have them 100% verified for stability through an audit by a global, top-tier security firm.
-	Presale: We will conduct a presale for early supporters to secure the initial funding and a strong community foundation required for a successful launch.
+	Strategic Round (Private Sale): We will conduct a private funding round targeting strategic partners and VCs. This round is designed to secure the initial funding required for legal incorporation, initial exchange listings, and a strong foundation for a successful launch.
 
 8.2.	Ignition: Opening the Prelude to Competition
 Objective: To make the ecosystem's heart beat and to raise the curtain on the first competition.
