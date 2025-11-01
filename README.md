@@ -4,7 +4,7 @@ Endgame Protocol White Paper v1.2
 The First Survival Finance (SurFi)
 
 October 11, 2025
-Author: Kuroda Kaito (黒田 魁人) - Pseudonym 
+From the First Survivor: Kuroda Kaito (黒田 魁人)
 kaito881221@gmail.com
 
 [Download Whitepaper (PDF)] (/docs/Endgame_Protocol_Whitepaper_v1.1.pdf)
